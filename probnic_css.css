@@ -1,0 +1,424 @@
+body{
+font-family: 'Roboto', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+.header{
+color: #FFFFFF;
+padding-top: 50px; 
+background: url(title.png) no-repeat center top;
+background-size: 100%;
+margin-right: -10px;
+}
+ul,li{
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+.menu{
+
+}
+.menu__item{
+}
+.menu__item a{
+  font-size: 14pt;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+.menu__button_sig_in{
+  border-radius: 30px;
+  height: 33px;
+  font-size: 15px;
+  font-weight: 700;
+  border-color: rgb(255, 255, 255);
+  color: #FFFFFF;
+  background-color: Transparent; 
+}
+.URLAUBSGLÜCK {
+font-size: 20px;
+font-weight: 400;
+}
+.offer{
+margin-top: 172px;
+text-align: center;
+}
+.title{
+text-transform: uppercase;
+font-size: 52px;
+text-align: center;
+font-weight: 400;
+line-height: 1.2;
+}
+.podtitle{
+margin-top: 30px;
+font-size: 24px;
+text-align: center;
+font-weight: 400;
+}
+.podtitle_button{
+width: 295px;
+height: 40px;
+margin-top: 10px;
+margin-bottom: 70px;
+border-radius: 30px;
+font-weight: 700;
+border: 0;
+background-color: rgb(255, 78, 80);
+color: rgb(255, 255, 255);
+}
+
+/*How work*/
+
+.works{
+  padding-top: 100px;
+}
+.title_work{
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+}
+.menu__item_Work{
+  margin-top: 44px;
+  margin-right: 20px;
+}
+.image{
+  position: relative; 
+}
+.Layer{
+  padding: 20px;
+}
+.Layer_Work{
+position: relative;
+}
+.title2_Layer{
+  font-weight: 700;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  top: 290px;
+  left:10px;
+  position: absolute;
+}
+.title1_Layer{
+  font-weight: 700;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  top: 265px;
+  left:10px;
+  position: absolute;
+}
+.podtext_Work{
+font-size: 14px;
+font-weight: 300;
+color: rgb(204, 204, 204);
+position: absolute;
+left: 10px;
+top: 320px;
+}
+.BStep_1 {
+  position: absolute;
+  left: 10px;
+  top: 230px;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 20px;
+  border: 0;
+  background-color: rgb(255, 78, 80);
+  color: rgb(255, 255, 255);
+}
+.BStep_2 {
+  position: absolute;
+  left: 10px;
+  top: 260px;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 20px;
+  border: 0;
+  background-color: rgb(255, 78, 80);
+  color: rgb(255, 255, 255);
+}
+/*Partner*/
+
+.partner{
+  padding-top: 100px;
+}
+.title_partner{
+  font-weight: 700;
+  font-size: 22px;
+  text-align: center;
+}
+.icon{
+  padding-top: 37px;
+}
+.icon_partner{
+position: relative;
+}
+.title_icon{
+  font-weight: 700;
+  padding-top: 25px;
+  font-size: 16px;
+  padding-left: 46px;
+}
+.podtitle_icon{
+font-weight: 300;
+padding-top: 10px;
+font-size: 14px;
+text-align: center;
+}
+.eclipse{
+  position: absolute;
+  top: 90px;
+  right: 30px;
+  border-radius: 30px;
+}
+.button_partner_pad{
+  padding-top: 40px;
+  text-align: center;
+}
+.button_partner{
+width: 180px;
+height: 40px;
+font-weight: 700;
+border-radius: 30px;
+border-color: rgb(255, 78, 80);
+background-color: rgb(255, 255, 255);
+color: rgb(255, 78, 80);
+}
+
+/*Discover*/
+
+.discover{
+  padding-top: 105px;
+}
+.discover_title{
+  font-weight: 700;
+  font-size: 22px;
+  text-align: center;
+}
+.discover__picture_pod{
+  margin-top: 40px;
+  position: relative;
+}
+.dlina_discover{
+    width: 680px;
+    height: 310px;
+}
+.podtitle_discover_line1{
+  top: 145px;
+  left: 65px;
+  position: absolute;
+  font-size: 22px;
+  font-weight:700;
+  color: #FFFFFF;
+}
+.podtitle_discover_line2{
+  top: 145px;
+  left: 115px;
+  position: absolute;
+  font-size: 22px;
+  font-weight:700;
+  color: #FFFFFF;
+}
+.podtitle_discover_line2_1{
+  top: 145px;
+  left: 230px;
+  position: absolute;
+  font-size: 22px;
+  font-weight:700;
+  color: #FFFFFF;
+}
+.podtitle_discover_line3{
+  top: 145px;
+  left: 290px;
+  position: absolute;
+  font-size: 22px;
+  font-weight:700;
+  color: #FFFFFF;
+}
+.podtitle_discover_line3_1{
+  top: 145px;
+  left: 100px;
+  position: absolute;
+  font-size: 22px;
+  font-weight:700;
+  color: #FFFFFF;
+}
+.discover_form{
+  padding-top: 100px;
+}
+.title_form{
+  text-align: center;
+}
+.title_discover_form{
+  font-size: 22px;
+  font-weight:700;
+}
+.podtitle_dicover_form{
+  padding-top: 40px;
+  font-size: 18px;
+  font-weight: 300;
+}
+.forma{
+  padding-top: 40px;
+}
+.input_form{
+  font-size: 14px;
+  font-family: 300;
+  color: rgb(153, 153, 153);
+  width: 240px;
+  height: 40px;
+  margin-right: 10px;
+}
+.input_button{
+  font-size: 14px;
+  font-weight: 700;
+  width: 160px;
+  height: 40px;
+  border-radius: 30px;
+  border: 0;
+  background-color: rgb(255, 78, 80);
+  color: rgb(255, 255, 255);
+}
+
+/*Footer*/
+
+hr{
+   background-color: rgb(255, 78, 80);
+}
+.footer{
+  padding-top: 100px;
+}
+.footer_mein{
+  padding-top: 40px;
+}
+.footer_urlaubs{
+font-weight: 700;
+font-size: 16px;
+color: rgb(255, 78, 80);
+}
+.podtext_footer{
+  font-weight: 300;
+  font-size: 14px;
+  color: rgb(204, 204, 204);
+}
+.title_footer{
+font-weight: 700;
+font-size: 14px;
+}
+.podtitle_footer{
+  text-align: center;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+ color: rgb(204, 204, 204);
+}
+.dispbol{
+  display: block;
+  margin: 0 auto;
+}
+/*Адаптация*/
+@media screen and (max-width: 992px){
+  .offer{
+    margin-top: 10px;
+  }
+  .title{
+    font-size:32px;
+  }
+  .podtitle{
+    margin-top: 15px
+  }
+  .podtitle_button{
+    margin-top: 10px;
+    margin-bottom: 70px;
+  }
+  .Layer{
+    justify-content: center;
+  }
+  .icon{
+    justify-content: center;
+  }
+  .discoverh{
+    justify-content: center;
+  }
+  .podtitle_footer{
+    text-align: left;
+  }
+  .dlina_discover{
+    width: auto;
+  }
+  .podtitle_discover_line2_1{
+    left: 210px;
+  }
+  .podtitle_discover_line3{
+    left: 270px;
+  }
+  .header{
+    height: auto;
+  }
+  .discover_form{
+    justify-content: center;
+  }
+  .header_photo{
+    width: 100%;
+    height: 450px;
+  }
+}
+@media screen and (max-width: 425px){
+  .input_form {
+    width: 100%;
+    margin-bottom: 20px;
+    }
+    .podtitle_discover_line2_1{
+    top: 70px;
+    left: 70px;
+  }
+  .podtitle_discover_line3{
+    left: 116px;
+    top: 67px;
+  }
+   .dlina_discover{
+    width: 100%;
+    height: 100%;
+  }
+  .URLAUBSGLÜCK{
+    font-size: 10px;
+    font-weight: 400;
+  }
+  .header{
+    padding-top: 12px;
+    background-size: contain;
+    margin-right: -15px;
+  }
+  .menu__item a{
+    font-size: 12px;
+}
+.menu__button_sig_in{  
+  border-radius: 30px;
+  height: 20px;
+  font-size: 9px;
+  font-weight: 700;
+  border-color: rgb(255, 255, 255);
+  color: #FFFFFF;
+  background-color: Transparent; 
+}
+.title{
+    font-size: 18px;
+}
+.podtitle{
+font-size: 12px;
+margin: 0px;
+}
+.podtitle_button{
+    font-size: 11px;
+    height: 22px;
+    width: 220px;
+    margin: 0;
+}
+.offer{
+ margin-bottom: 14px;
+ margin-right: ;
+}
+.works{
+  padding-top: 40px;
+}
+}
